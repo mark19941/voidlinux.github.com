@@ -454,7 +454,7 @@ supertux2-data-0.5.1_1	/usr/share/supertux2/sounds/fizz.wav
 The first step is to building xbps packages from source is to clone the `void-packages` `git(1)` repository.
 
 ```
-$ git clone https://github.com/voidlinux/void-packages.git
+$ git clone https://github.com/void-linux/void-packages.git
 Cloning into 'void-packages'...
 remote: Counting objects: 398517, done.
 remote: Total 398517 (delta 0), reused 1 (delta 0), pack-reused 398516
@@ -504,7 +504,7 @@ $ ./xbps-src -m masterdir-i686 pkg vim
 
 ## Contributing
 
-You can find an extensive contributing guide [CONTRIBUTING.md](https://github.com/voidlinux/void-packages/blob/master/CONTRIBUTING.md) in the `void-packages` git repository.
+You can find an extensive contributing guide [CONTRIBUTING.md](https://github.com/void-linux/void-packages/blob/master/CONTRIBUTING.md) in the `void-packages` git repository.
 
 ## Debugging packages
 
